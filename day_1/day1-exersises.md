@@ -8,11 +8,12 @@
     <i> - italics
     <sup> - superscript
     <sub> - subscript
+        
 7. empty elements are elements that only have a start tag.
 8. A semantic markup is extra information written in quotations
-9.  <form>
-    <table>
-    <article>
+9.  form,
+    table,
+    article
 
 
 CodePen Link: https://codepen.io/C-Bandstra/pen/zYYxred
