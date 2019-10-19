@@ -3,7 +3,7 @@ Forms
 1. The type value determines what kind of input they are creating.
 
 
-The select element is used to create a dropdown list. It contains two or more <option> elements.
+1. The select element is used to create a dropdown list. It contains two or more <option> elements.
 
 Type="submit" is used to send a form to the server.
 
@@ -13,7 +13,7 @@ Boxes and Layouts
 
 1. The border separates the edge of one box from another. The margin sits outside the edge of the border. The padding is the space between the border and any content between it.
 
-Padding is added on to the width of a box.
+1. Padding is added on to the width of a box.
 
 The block level element always starts on a new line and takes up the full width of a page. The inline element can start within a line and does not have to take up a whole page.
 
