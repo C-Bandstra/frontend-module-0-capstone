@@ -2,10 +2,9 @@ Forms
 
 1. The type value determines what kind of input they are creating.
 
-
 1. The select element is used to create a dropdown list. It contains two or more <option> elements.
 
-Type="submit" is used to send a form to the server.
+1. Type="submit" is used to send a form to the server.
 
 Fieldset is used to group related form controls together.
 
@@ -15,7 +14,7 @@ Boxes and Layouts
 
 1. Padding is added on to the width of a box.
 
-The block level element always starts on a new line and takes up the full width of a page. The inline element can start within a line and does not have to take up a whole page.
+1. The block level element always starts on a new line and takes up the full width of a page. The inline element can start within a line and does not have to take up a whole page.
 
 This is the form of positioning that positions the element in relation to the browser. When you move elements from normal flow it can cause boxes to overlap. You can use the z-index to control which box appears on top.
 
