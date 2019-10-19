@@ -1,10 +1,10 @@
-# Forms
+Forms
 1. The <type> value determines what kind of input they are creating
 2. The <select> element is used to create a dropdown list. It contains two or more <option> elements.
 3. type="submit" is used to send a form to the server
 4. <fieldset> is used to group related form controls together
 
-# Boxes and Layouts
+Boxes and Layouts
 1. The border separates the edge of one box from another. The margin sits outside the edge of the border. The padding is the space between the border and any content between it.
 2. Padding is added on to the width of a box
 3. The block level element always starts on a new line and takes up the full width of a page. The inline element can start within a line and does not have to take up a whole page.
