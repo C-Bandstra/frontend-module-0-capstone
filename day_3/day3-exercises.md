@@ -2,7 +2,7 @@ Forms
 
   1. The <type> value determines what kind of input they are creating.
 
-   The <select> element is used to create a dropdown list. It contains two or more <option> elements.
+  1. The <select> element is used to create a dropdown list. It contains two or more <option> elements.
 
    type="submit" is used to send a form to the server.
 
