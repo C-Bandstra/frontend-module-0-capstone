@@ -18,4 +18,4 @@ Boxes and Layouts
 
 1. This is the form of positioning that positions the element in relation to the browser. When you move elements from normal flow it can cause boxes to overlap. You can use the z-index to control which box appears on top.
 
-1. The main difference between liquid layout and fixed width layout is with the ability to control the size of a page. Fixed width uses the pixel measurement to lock the page in place. The liquid layout often uses percentages to to allow the user to increase and decrease the screen to their liking.
+1. The difference between liquid layout and fixed width layout is with the ability to control the size of a page. Fixed width uses the pixel measurement to lock the page in place. The liquid layout often uses percentages to to allow the user to increase and decrease the screen to their liking.
