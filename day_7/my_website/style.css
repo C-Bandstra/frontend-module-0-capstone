@@ -1,0 +1,167 @@
+html {}
+
+body {
+      padding:10px;
+      background-color: #e6dbc9;
+
+}
+
+h1 {
+      font-family: "Times New Roman", Times, serif;
+      color: #e6dbc9;
+      font-weight: 500;
+      background-color: #4b6777;
+      padding:5px;
+
+
+}
+
+h2 {
+      font-family: "Times New Roman", Times, serif;
+      color: #e6dbc9;
+      font-weight: 500;
+      background-color: #4b6777;
+      padding: 5px
+
+}
+
+ h3 {
+      font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+      font-size: 20px;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 500;
+      line-height: 15.4px;
+      color: #2c2c2c ;
+      margin: 25px
+}
+
+ p {
+      font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 400;
+      line-height: 20px;
+      margin:15px;
+      padding:15px;
+      color: #2c2c2c;
+      display: inline-block
+
+
+}
+
+  {
+     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+     font-size: 21px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 400;
+     line-height: 30px;
+}
+
+
+}
+
+ul {
+    list-style: square;
+    color: #2c2c2c
+}
+
+a {
+     color: #2c2c2c;
+}
+
+li {
+  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+     font-size: 16px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 400;
+     line-height: 20px;
+     color: #2c2c2c;
+}
+
+input {
+  background-color: #dcdcdc;
+  border-color: #A9A9A9
+}
+
+select {
+  background-color:  #dcdcdc;
+  border-color: #A9A9A9
+}
+
+p.one {
+  border: 2px solid #2c2c2c;
+  box-shadow: 2px;
+  margin: 10px;
+  background-color: #4b6777 ;
+  margin-top: 5%;
+  color: #e6dbc9;
+}
+
+p.two {
+  border: 2px solid #2c2c2c;
+  box-shadow: 2px;
+  margin: 10px;
+  background-color: #4b6777 ;
+  margin-top: 5%;
+  color: #e6dbc9;
+  margin-bottom: 3%;
+
+}
+
+p.three{
+  margin-bottom: 3%;
+  background-color: #4b6777;
+  color: #e6dbc9;
+  box-shadow: 2px;
+  border: 2px solid #2c2c2c;
+
+}
+p.four {
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+
+
+}
+
+h1.one {
+   border: 2px solid #2c2c2c;
+   box-shadow: 2px
+}
+
+h2.one {
+   border: 2px solid #2c2c2c;
+   box-shadow: 2px
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  display: table;
+  clear: both;
+}
+
+.pic_one{
+  padding-left: 25%;
+  padding-top: 1.5%;
+  padding-bottom: 9%;
+  margin-top: 3%;
+
+
+}
+
+.pic_two{
+  padding-right: 15%;
+  float: right;
+  padding-top: 5%;
+  padding-bottom: %;
+
+}
